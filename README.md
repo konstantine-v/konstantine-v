@@ -1,10 +1,14 @@
 ## Hi! I’m Konstantine
-I do a bit of programming here and there.
+I do a bit of programming here and there. Mostly for fun.
 
 ## Some Things About Myself
-- I enjoy working with Lisps, be it Clojure or Common Lisp
+- I enjoy working with Lisps
+  - Clojure/ClojureScript
+  - Common Lisp
+  - Hy Lang
 - Javascript isn't that bad
-- Having bots automate the boring stuff
+- Having script automate the boring stuff
+  - Bash/Shell, Babashka, Clojure+REPL
 
 ## Languages
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
