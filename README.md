@@ -11,4 +11,4 @@ Languages and tools I enjoy building with in my free time
 
 [![My Skills](https://skillicons.dev/icons?i=clojure,ocaml,zig,latex,docker,arch&theme=dark)](https://skillicons.dev)
 
-![me irl](https://pbs.twimg.com/profile_banners/1756000654324023296/1707498269/1500x500)
+![me irl](https://images3.alphacoders.com/131/thumb-1920-1314773.jpg)
